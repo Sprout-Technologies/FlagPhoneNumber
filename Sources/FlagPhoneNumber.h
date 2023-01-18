@@ -15,7 +15,6 @@
 #import "NBNumberFormat.h"
 #import "NBPhoneMetaData.h"
 #import "NBPhoneNumberDesc.h"
-#import "NBPhoneNumberUtil+ShortNumber.h"
 #import "NBRegExMatcher.h"
 #import "NBRegularExpressionCache.h"
 #import "NSArray+NBAdditions.h"
